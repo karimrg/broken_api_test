@@ -62,5 +62,4 @@ describe('The "person" endpoint', function () {
       })
       .end(done);
   });
-
 });

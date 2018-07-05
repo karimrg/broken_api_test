@@ -10,8 +10,12 @@
     "body-parser": "~1.13.2",
     "debug": "~2.2.0",
     "express": "~4.13.1",
-    "mocha": "^2.3.2",
+    "formidable": "^1.2.1",
     "morgan": "~1.6.1",
-    "supertest": "^1.1.0"
+    "esrever": "0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "supertest": "^3.0.0"
   }
 }
